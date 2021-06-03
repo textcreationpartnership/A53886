@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oxfords lamentation in a dialogue between Oxford and London concerning the dissolution of the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53886</idno><idno type="EEBO-CITATION">12591437</idno>
+  <idno type="VID">63950</idno>
+  <idno type="EEBO-PROQUEST">2240982841</idno>
+  
+            <idno type="STC">Wing O994</idno>
+            <idno type="STC">ESTC R11861</idno>
+            <idno type="OCLC">12591437</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 967:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oxfords lamentation in a dialogue between Oxford and London concerning the dissolution of the Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Benskin ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:63950:1"/>
+            <pb facs="tcp:63950:1"/>
+            <head>Oxfords <hi>Lamentation</hi> IN A DIALOGUE BETWEEN OXFORD AND LONDON: Concerning the Dissolution OF THE Parliament.</head>
+            <sp>
+               <speaker>Oxford.</speaker>
+               <l>WHat is the Pomp and Glory of this World?</l>
+               <l>How soon is all into Confusion hurl'd?</l>
+               <l>I, who in Pride, held up my Head of late,</l>
+               <l>With so much Joy, Expectancy and State,</l>
+               <l>Seeing my Sister Cities of the Land,</l>
+               <l>Like Servants, at a distance from me stand;</l>
+               <l>Whilst I Exalted was by King and Court,</l>
+               <l>Am on a sudden made Dame Fortune's Sport;</l>
+               <l>And with one Breath am to the Ground thrown down,</l>
+               <l>My Pomp, my Pride, and Glory all is gone:</l>
+               <l>One puff of Royal Fire away has sent</l>
+               <l>My Hopes together with the <hi>Parliament:</hi>
+               </l>
+               <l>Was it for this I laid out so much cost,</l>
+               <l>To have my Glory in a moment lost?</l>
+               <l>But few Days since my Conduits did run Wine,</l>
+               <l>And now as fast they run with Tears salt Brine.</l>
+            </sp>
+            <sp>
+               <speaker>London.</speaker>
+               <l>What ho! what sad Nymph hear I thus complain,</l>
+               <l>That makes me my salt showre of Tears refrain▪</l>
+               <l>Am I deceiv'd, or may I my Eyes trust,</l>
+               <l>Is it my Sister <hi>Oxford</hi> in the Dust?</l>
+               <l>She who had Rob'd me of my chief Content,</l>
+               <l>My Hope, my Love, my Joy, my <hi>Parliament?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Oxf.</speaker>
+               <l>O Sister <hi>London</hi> it is I you see,</l>
+               <l>As sorrowful as e're was <hi>Niobe;</hi>
+               </l>
+               <l>And now the King and Parliament are gone,</l>
+               <l>Like her I weep, till I am chang'd to stone.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:63950:2"/>
+               <speaker>
+                  <pb facs="tcp:63950:2"/>Lond.</speaker>
+               <l>Tho' you had rob'd me of my Hope and Joy,</l>
+               <l>And sought with Pride my Comfort to destroy</l>
+               <l>Yet since my King had will'd you to be great,</l>
+               <l>I did with Tears and with sad Heart submit;</l>
+               <l>When I resign'd my Love, and gave you place,</l>
+               <l>Would you so soon Kill him with your Embrace?</l>
+            </sp>
+            <sp>
+               <speaker>Oxf.</speaker>
+               <l>Oh! name no more your Love, behold my Eyes</l>
+               <l>They'l witness that his Death was my surprize;</l>
+               <l>My Sadness, Tears, and Mourning are too true,</l>
+               <l>I have a Lovers pangs as well as you.</l>
+               <l>Against me all my Sisters will be bent,</l>
+               <l>And 'twill me of my short-Liv'd Parliament,</l>
+               <l>A meer <hi>Ephemeron</hi> Lover, of a Day,</l>
+               <l>Appear'd, was seen, then Vanished away;</l>
+               <l>A <hi>Mushrump,</hi> that in one Night up did spring,</l>
+               <l>Gather'd ith' Morn, a Sallad for a King;</l>
+               <l>The Peoples Representives are but Men</l>
+               <l>Set up by Kings, to be Tip'd down agen;</l>
+               <l>But Oh! my Heart is full, I cannot speak,</l>
+               <l>At me with Scorn, I see your Head you shake;</l>
+               <l>I'le lay me down by Silver <hi>Isis</hi> side,</l>
+               <l>And with my Tears increase her Chrystal Lyde.</l>
+            </sp>
+            <sp>
+               <speaker>Lond.</speaker>
+               <l>Ah! mournful Nymph you do not grieve alone,</l>
+               <l>I weep as well as you our Lover gone;</l>
+               <l>Beloved <hi>Thames</hi> makes Musick to my sigh,</l>
+               <l>And with sad voice my side runs murmuring by.</l>
+               <l>All <hi>England</hi> weeps, and doth in Sack-cloath Groan,</l>
+               <l>
+                  <hi>Humber, Trent, Dee, Severn,</hi> and <hi>Meadway</hi> moan</l>
+               <l>The loss of our Dead Lover, and we find</l>
+               <l>Our numerous Cities, to his Memory kind;</l>
+               <l>Throughout the Land, their Tears like Currents flow,</l>
+               <l>And in sad murmuring sighs they tell their woe.</l>
+            </sp>
+            <sp>
+               <speaker>Oxf.</speaker>
+               <l>Oh! Sister when shall ever we be sped?</l>
+               <l>How soon have we seen two dear Lovers dead,</l>
+               <l>As if the <hi>Plague,</hi> or <hi>Murrain,</hi> they had got,</l>
+               <l>They dye like Sheep that's Killed with the Rot.</l>
+               <l>Assist me now <hi>Melpomeny</hi> to Weep,</l>
+               <l>Oh! my dear Muses are you all asleep?</l>
+               <l>You that e're while melodiously did Chant,</l>
+               <l>Have you no Elegy left fit for Complaint?</l>
+               <l>Hang up your Harps upon the Willow-Tree,</l>
+               <l>And sit you down and weep, and weep with me.</l>
+            </sp>
+            <sp>
+               <speaker>Lond.</speaker>
+               <l>With you my doleful Sister, I'le bear part,</l>
+               <l>For I am griev'd as well as you at Heart:</l>
+               <l>Let us Embalm with Tears our Lover dead,</l>
+               <l>Whose Soul is now among the People fled:</l>
+               <l>His Body's gone, a Shaddow now we weep,</l>
+               <l>For ever laid in an <hi>Eternal</hi> Sleep:</l>
+               <l>Weep Sisters of this Isle, and ne'r give o're,</l>
+               <l>For 'tis in vain to Hope for Lover more:</l>
+               <l>We ne'r a true kind <hi>Lover</hi> e're shall <hi>Wed,</hi>
+               </l>
+               <l>Some evil <hi>Doemon</hi> strikes our Lovers dead;</l>
+               <l>And no one with us e're Alive can stay,</l>
+               <l>Till <hi>Raguel</hi> drives the <hi>Evil-Spirit</hi> away.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>T. Benskin,</hi> in St. <hi>Brides</hi> Church-Yard, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
